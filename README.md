@@ -31,9 +31,9 @@ $ python chatbot.py --help
 
 # Experiment programs
 We used the following programs for our experiment and processing data
-- [check_jaro.py](https://git.science.uu.nl/j.vanremmerden/chatbot-team19-infomair/-/blob/master/check_jaro.py)
+- [check_jaro.py](https://github.com/DiegoLigtenberg/Restaurant-ChatBot/blob/main/start_up.py)
 - [chatbot_experiment.py](https://git.science.uu.nl/j.vanremmerden/chatbot-team19-infomair/-/blob/master/chatbot_experiment.py)
-- [combine_files.py](https://git.science.uu.nl/j.vanremmerden/chatbot-team19-infomair/-/blob/master/combine_files.py)
-- [combine_results_one.py](https://git.science.uu.nl/j.vanremmerden/chatbot-team19-infomair/-/blob/master/combine_results_one.py)
-- [start_up.py](https://git.science.uu.nl/j.vanremmerden/chatbot-team19-infomair/-/blob/master/start_up.py)
+- [combine_files.py](https://github.com/DiegoLigtenberg/Restaurant-ChatBot/blob/main/combine_files.py)
+- [combine_results_one.py](https://github.com/DiegoLigtenberg/Restaurant-ChatBot/blob/main/combine_results_one.py)
+- [start_up.py](https://github.com/DiegoLigtenberg/Restaurant-ChatBot/blob/main/start_up.py)
 
